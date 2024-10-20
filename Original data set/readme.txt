@@ -1,1 +1,1 @@
-
+This folder contains the original data set for label-based transfer learning to solve the commodity inventory prediction problem, covering detailed historical data, including information such as merchants, commodities, warehouses, and shipments.
